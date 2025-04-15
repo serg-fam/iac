@@ -1,4 +1,4 @@
-# iac - test
+IaC
 Infrastructure as Code (IaC) is a practice in which infrastructure is provisioned and managed using code and software development techniques, such as version control and continuous integration. This approach enables DevOps teams to automatically manage and provision technology stacks through code, rather than using manual processes.
 
 Key benefits of IaC:
